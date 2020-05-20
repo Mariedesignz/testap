@@ -1,0 +1,1 @@
+![.NET Core](https://github.com/Mariedesignz/testap/workflows/.NET%20Core/badge.svg)
